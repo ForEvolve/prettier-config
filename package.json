@@ -9,7 +9,8 @@
   },
   "keywords": [
     "prettier",
-    "config"
+    "config",
+    "prettier config"
   ],
   "author": "Carl-Hugo Marcotte",
   "license": "MIT",
