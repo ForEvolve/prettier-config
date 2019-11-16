@@ -29,6 +29,10 @@ For more information, or other ways to load the package, please see the official
 
 ## Change log
 
+### 2.0.1
+
+- Update a keyword to test the paths filter of the GitHub action
+
 ### 2.0.0
 
 - Change the entry point from `index.js` to `index.json`
