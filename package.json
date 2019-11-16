@@ -1,6 +1,6 @@
 {
   "name": "@forevolve/prettier-config",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "My shared Prettier configuration",
   "main": "index.json",
   "repository": {
@@ -9,8 +9,7 @@
   },
   "keywords": [
     "prettier",
-    "config",
-    "prettier config"
+    "config"
   ],
   "author": "Carl-Hugo Marcotte",
   "license": "MIT",
