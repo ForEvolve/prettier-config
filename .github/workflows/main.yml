@@ -4,8 +4,8 @@ on:
   push:
     branches: [master]
     paths:
-    - '!README.md'
-  
+      - !README.md
+
 jobs:
   publish-npm:
     runs-on: ubuntu-latest
