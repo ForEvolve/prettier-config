@@ -18,8 +18,8 @@ Using `package.json` and `npm`:
 
     ```json
     {
-        // ...
-        "prettier": "@forevolve/prettier-config"
+      // ...
+      "prettier": "@forevolve/prettier-config"
     }
     ```
 
@@ -29,6 +29,10 @@ For more information, or other ways to load the package, please see the official
 
 ## Change log
 
+### 2.0.0
+
+- Change the entry point from `index.js` to `index.json`
+
 ### 1.0.0
 
--   Initial release
+- Initial release
