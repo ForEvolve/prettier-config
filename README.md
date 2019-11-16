@@ -2,6 +2,8 @@
 
 My shared [Prettier](https://prettier.io/) configuration.
 
+![Deploy npm package](https://github.com/ForEvolve/prettier-config/workflows/Deploy%20npm%20package/badge.svg)
+
 ## How to use
 
 Using `package.json` and `npm`:
